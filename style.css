@@ -1,0 +1,79 @@
+.main {
+  background-image: url(./main.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+.main h1{
+  font-size: 70px;
+  color: white;
+  font-family: 'Dancing Script', cursive;
+font-family: 'Luxurious Roman', cursive;
+font-family: 'M PLUS Rounded 1c', sans-serif;
+font-family: 'Merriweather', serif;
+}
+
+input,label{
+  display: block;
+}
+#name{
+  width: 200px;
+}
+#email{
+width: 200px;
+}
+.post{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+  font-size: 20px;
+  color: rgb(225, 207, 241);
+  font-family: 'Dancing Script', cursive;
+font-family: 'Luxurious Roman', cursive;
+font-family: 'M PLUS Rounded 1c', sans-serif;
+font-family: 'Merriweather', serif;
+}
+.text{
+  text-align: center;
+  padding: 80px;
+  font-size: 20px;
+  color: rgb(225, 207, 241);
+  font-family: 'Dancing Script', cursive;
+font-family: 'Luxurious Roman', cursive;
+font-family: 'M PLUS Rounded 1c', sans-serif;
+font-family: 'Merriweather', serif;
+}
+#btn{
+  padding: 3px 10px;
+  color: rgb(225, 207, 241);
+  font-size: 20px;
+  font-family: 'Dancing Script', cursive;
+font-family: 'Luxurious Roman', cursive;
+font-family: 'M PLUS Rounded 1c', sans-serif;
+font-family: 'Merriweather', serif;
+}
+
+.foot{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+  width: 100vw;
+  color: rgb(225, 207, 241);
+  padding-top: 30px;
+ 
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Luxurious Roman', cursive;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'Merriweather', serif;
+}
+
+/*# sourceMappingURL=style.css.map */
